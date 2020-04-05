@@ -1,3 +1,6 @@
+# Files for vim config are from an open source project :
+# https://github.com/amix/vimrc
+
 set runtimepath+=~/.vim_runtime
 
 source ~/.vim_runtime/vimrcs/basic.vim
